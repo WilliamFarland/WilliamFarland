@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamFarland
-- 👀 I’m interested in ... Systems Programming, DevOps, and Cloud Computing
-- 🌱 I’m currently learning ... AWS, FPGA (Altera)
+- 👀 I’m interested in ... Systems Programming, DevOps, Security Engineering, and Cloud Computing
+- 🌱 I’m currently learning ... AWS, FPGA (Altera), C++, Python
 - 📫 How to reach me ... wfarland@umass.edu
 
 <!---
